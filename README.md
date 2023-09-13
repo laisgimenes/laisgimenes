@@ -1,16 +1,28 @@
-### Hi there 👋
+👋 Olá, eu sou a Laís!<br>
+**Estudante de Estatística**
 
-<!--
-**laisgimenes/laisgimenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Você pode entrar em contato comigo através do meu [LinkedIn](https://br.linkedin.com/in/lais-elias-gimenes)
 
-Here are some ideas to get you started:
+🎓 Formação:
+- **Graduação em Estatística:**<br>
+  Unesp – Faculdade de Ciências e Tecnologia 👉 2018 a Fim de 2023
+- **Ensino Médio:**<br>
+  E.E.Profª Luiza Maria Bernardes Nory 👉 2011 a 2013
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Conhecimentos:
+
+- Análise Estatística
+- Análise Exploratória e Descritiva dos Dados
+- Visualização de Dados
+- Análise de Regressão
+- Regressão Logística
+- Dashboards
+
+🛠️ Ferramentas que utilizo:
+
+- RStudio
+- Python
+- SQL (MySQL)
+- Power BI
+- Excel
+
