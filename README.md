@@ -18,11 +18,11 @@
 - Regressão Logística
 - Dashboards
 
-🛠️ Ferramentas que utilizo:
+🛠️ Ferramentas:
 
 - RStudio
 - Python
-- SQL (MySQL)
+- MySQL
 - Power BI
 - Excel
 
